@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Daniel Losier",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Daniel Losier",
@@ -26,12 +15,18 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Daniel Losier",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "#contact",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Helped Toronto Investors Sell Their Renovated Semi for $416,000 Above Asking in 7 Days—During a Trade War",
-    "subheadline": "Record-Breaking Sale in Uncertain Times—Proof That Strategy Beats Market Conditions"
+    "title": "How We Helped Toronto Investors Sell Their Renovated Semi for $416,000 Above Asking in 7 Days",
+    "subheadline": "Record-Breaking Sale in Uncertain Times, Proof That Strategy Beats Market Conditions"
   },
   "mainBox": {
     "summary": {
@@ -64,7 +59,8 @@ const config = {
         "Market timing couldn't have been worse: Trump had just taken office, talked about annexing Canada, and launched tariffs that sparked a trade war—uncertainty was killing buyer confidence across Toronto",
         "The fear was real: \"What if we can't sell at all? What if all this work, all this investment, just... sits there?\" In a frozen market, even beautiful homes were struggling",
         "As first-time renovation sellers, they were terrified of making costly mistakes that would sabotage months of hard work and financial risk"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"There was so much uncertainty in the market when we decided to sell—honestly, we were scared. But Daniel created a scenario that felt like a strong seller's market even though everything around us said otherwise. The results were beyond what we hoped for. He didn't just exceed our expectations; he gave us the confidence to keep going, to trust our vision, and to continue building our real estate portfolio. We're on our second project together now, and that says everything.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1767720659220-012.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -100,7 +98,8 @@ const config = {
         "Generated 40+ showings and 5 competing offers—every single one above asking with no conditions",
         "Negotiated top offers even higher through strategic positioning, securing a fast closing and clean terms",
         "Transformed an over-budget renovation from potential disaster into a profitable success that launched their real estate investing career"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -109,7 +108,8 @@ const config = {
         "<strong>Timing isn't about waiting for perfect market conditions—it's about creating your own advantage.</strong> When there's no competing inventory, even uncertain markets can deliver exceptional results if you move decisively.",
         "<strong>Strategic underpricing isn't leaving money on the table—it's the spark that ignites competition.</strong> By pricing to create urgency and multiple offers, you often sell for significantly more than if you'd \"tested\" a higher price.",
         "<strong>Presentation is the difference between a sale and a record-breaking sale.</strong> Premium staging and marketing don't cost money—they make money by positioning your home as the obvious choice worth fighting for."
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -121,24 +121,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://erbaandco.com/privacy-policy/"
+    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Dan-Losier.jpg"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1753811939065-LOSIER_PrimaryLogo_100K.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "real broker",
     "brokerageAddress": "130 King St W Unit Unit 1900B, Toronto, On, M5X1E3",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1753811939065-LOSIER_PrimaryLogo_100K.png"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://erbaandco.com/privacy-policy/"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-725"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
