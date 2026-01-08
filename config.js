@@ -30,14 +30,14 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How We Helped Toronto Investors Sell Their Renovated Semi for $416,000 Above Asking in 7 Days—During a Trade War",
+      "title": "How We Helped Toronto Investors Sell Their Renovated Semi for $416,000 Above Asking in 7 Days.",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1767720570757-002.1..jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
         "Meet a local Toronto family with a vision: transform a neighbourhood semi-detached home into something extraordinary. As first-time renovators and neighbours to the property itself, they poured their hearts (and their budget) into creating a stunning 3-bedroom, 3-bathroom home. But when it came time to sell, the market threw them a curveball that threatened everything they'd built.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD FOR $1,515,000—A RECORD-BREAKING $416,000 ABOVE ASKING PRICE</strong> <strong>SET A NEW BENCHMARK: Highest sale price for a semi-detached home in the neighbourhood</strong> <strong>7 DAYS on market in an economy gripped by trade war uncertainty</strong> Generated 40+ showings and 5 competing offers—every single one above asking with no conditions Negotiated top offers even higher through strategic positioning, securing a fast closing and clean terms Transformed an over-budget renovation from potential disaster into a profitable success that launched their real estate investing career"
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD FOR $1,515,000—A RECORD-BREAKING $416,000 ABOVE ASKING PRICE.</strong> <strong>SET A NEW BENCHMARK: Highest sale price for a semi-detached home in the neighbourhood.</strong> <strong>7 DAYS on market in an economy gripped by trade war uncertainty<./strong> Generated 40+ showings and 5 competing offers—every single one above asking with no conditions. Negotiated top offers even higher through strategic positioning, securing a fast closing and clean terms. Transformed an over-budget renovation from potential disaster into a profitable success that launched their real estate investing career."
       ]
     },
     "sidebar": {
