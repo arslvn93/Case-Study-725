@@ -72,9 +72,6 @@ const config = {
         "Boots-on-the-ground market intelligence: Took the sellers to view competing properties so they could see with their own eyes what was selling, what was sitting, and why we'd dominate",
         "Curated every controllable variable: From final renovation touches to listing timing to showing protocols—we left nothing to chance, ensuring the only variable left was buyer response (which we engineered)"
       ],
-      "testimonial": {
-        "quote": "\"\"There was so much uncertainty in the market when we decided to sell—honestly, we were scared. But Daniel created a scenario that felt like a strong seller's market even though everything around us said otherwise. The results were beyond what we hoped for. He didn't just exceed our expectations; he gave us the confidence to keep going, to trust our vision, and to continue building our real estate portfolio. We're on our second project together now, and that says everything.\"\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
