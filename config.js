@@ -18,7 +18,7 @@ const config = {
     ],
     "companyName": "Daniel Losier",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
+    "mainCTAButtonURL": "https://calendly.com/daniel-erbaandco/30min",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "facebookPixelId": ""
