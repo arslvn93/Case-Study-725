@@ -56,8 +56,8 @@ const config = {
       "title": "The Challenge",
       "paragraphs": [
         "The renovation went over budget—they needed to knock this sale out of the park just to break even, turning what should have been a profitable flip into a high-stakes gamble",
-        "Market timing couldn't have been worse: Trump had just taken office, talked about annexing Canada, and launched tariffs that sparked a trade war—uncertainty was killing buyer confidence across Toronto",
-        "The fear was real: \"What if we can't sell at all? What if all this work, all this investment, just... sits there?\" In a frozen market, even beautiful homes were struggling",
+        "Market timing couldn't have been worse: Trump had just taken office, talking about annexing Canada and launching tariffs that sparked a trade war - political and economic uncertainty was killing buyer confidence across Toronto\n\n",
+        "The fear was real: \"What if we can't sell at all? What if all this work, all this investment, just... sits there?\" In a climate of uncertainty, even beautiful homes were struggling\n",
         "As first-time renovation sellers, they were terrified of making costly mistakes that would sabotage months of hard work and financial risk"
       ],
       "listItems": []
@@ -66,7 +66,7 @@ const config = {
       "type": "standard",
       "title": "The Strategy",
       "paragraphs": [
-        "We turned political chaos into competitive advantage: While other sellers hesitated, I identified a golden window—there was NO comparable renovated inventory in the area. We had to move fast before competition emerged",
+        "We turned uncertainty into competitive advantage: While other sellers hesitated, I identified a golden window—there was NO comparable renovated inventory in the area. We had to move fast before competition emerged",
         "Strategic underpricing to manufacture urgency: Listed at $1,099,000 (below their $1.4M expectation) with a firm offer date to accelerate the process and create FOMO before the market could shift further",
         "Premium presentation for premium results: Invested in professional staging, photography, videography, and floor plans that showcased this wasn't just another semi—this was the best product available, period",
         "Boots-on-the-ground market intelligence: Took the sellers to view competing properties so they could see with their own eyes what was selling, what was sitting, and why we'd dominate",
@@ -91,7 +91,7 @@ const config = {
       "paragraphs": [
         "<strong>SOLD FOR $1,515,000—A RECORD-BREAKING $416,000 ABOVE ASKING PRICE</strong>",
         "<strong>SET A NEW BENCHMARK: Highest sale price for a semi-detached home in the neighbourhood</strong>",
-        "<strong>7 DAYS on market in an economy gripped by trade war uncertainty</strong>",
+        "<strong>7 DAYS on market in an economy gripped by political and economic uncertainty</strong>",
         "Generated 40+ showings and 5 competing offers—every single one above asking with no conditions",
         "Negotiated top offers even higher through strategic positioning, securing a fast closing and clean terms",
         "Transformed an over-budget renovation from potential disaster into a profitable success that launched their real estate investing career"
