@@ -11,7 +11,7 @@ const config = {
           },
           {
             "type": "phone",
-            "value": "4164186470"
+            "value": "(647) 557-8052"
           }
         ]
       }
