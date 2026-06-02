@@ -21,7 +21,7 @@ const config = {
     "mainCTAButtonURL": "https://calendly.com/daniel-erbaandco/30min",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
-    "facebookPixelId": ""
+    "facebookPixelId": "855212885643451"
   },
   "header": {
     "tag": "CASE STUDY",
